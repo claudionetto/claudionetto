@@ -1,4 +1,4 @@
-### &nbsp &nbsp &nbsp &nbspOiii, Meu nome é Claudio Netto Junior, e sou atualmente um estudandente de ADS 👋
+### ‎ ‎ ‎ ‎ Oiii, Meu nome é Claudio Netto Junior, e sou atualmente um estudandente de ADS 👋
 
 <div align="center">
   <a href="https://github.com/claudionetto">
