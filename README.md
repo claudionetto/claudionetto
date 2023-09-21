@@ -4,7 +4,7 @@
 
 
 ### I'm currently studying ...
-   <h4>🎓Graduated in Systems Analysis and Development</h4>
+   <h4>🎓 Graduated in Systems Analysis and Development</h4>
    <h4>📚 Web development</h4>
 </div>
  <br>
